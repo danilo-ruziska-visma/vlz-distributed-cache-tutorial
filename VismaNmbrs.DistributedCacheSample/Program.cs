@@ -14,6 +14,11 @@ builder.Services.Configure<CacheSettingsOptions>(options =>
     options.DefaultSlidingExpirationInMinutes = int.Parse(builder.Configuration.GetSection("CacheSettings")["DefaultSlidingExpirationInMinutes"]);
 });
 
+builder.Services.AddStackExchangeRedisCache(options =>
+{
+    options.Configuration = builder.Configuration.GetSection("CacheSettings")["ConnectionString"];
+});
+
 // This method is not native. It was created in the VismaNmbrs.DistributedCacheSample.Data class library
 builder.Services.AddAzureCosmo(options =>
 {
@@ -21,7 +26,7 @@ builder.Services.AddAzureCosmo(options =>
     options.PrimaryKey = builder.Configuration.GetSection("AzureCosmo")["PrimaryKey"];
 });
 
-builder.Services.AddScoped<ICacheProvider, LocalCacheProvider>();
+builder.Services.AddScoped<ICacheProvider, DistributedCacheProvider>();
 
 builder.Services.AddAutoMapper(typeof(Program));
 

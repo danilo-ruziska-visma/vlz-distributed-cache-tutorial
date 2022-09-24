@@ -58,3 +58,23 @@ C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.Distribute
 C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\refint\VismaNmbrs.DistributedCacheSample.Data.dll
 C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.pdb
 C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\ref\VismaNmbrs.DistributedCacheSample.Data.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\msvcp140.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\vcruntime140.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.deps.json
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.pdb
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.pdb
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.csproj.AssemblyReference.cache
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.AssemblyInfoInputs.cache
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.AssemblyInfo.cs
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.csproj.CoreCompileInputs.cache
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.csproj.CopyComplete
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\refint\VismaNmbrs.DistributedCacheSample.Data.dll
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Data.pdb
+C:\Projects\Playground\vlz-distributed-cache-tutorial\VismaNmbrs.DistributedCacheSample.Data\obj\Debug\net6.0\ref\VismaNmbrs.DistributedCacheSample.Data.dll

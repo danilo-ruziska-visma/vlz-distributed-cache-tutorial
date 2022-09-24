@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fmg8P9JwkP7yqR0khEJWFSwMOQUJrH6k1nBhF1YEFcH0i/k5lutDrKzPYuPSPiesXvCJUHW9VxtbneqcUdi1dw==",
+  "dgSpecHash": "yHOuMhISi/ZRI9xPOkNG/diR2UKAR5++gk3hmzA3dh+D8S3hVRwsURtYGNETrSC7okz+3QCjqVT1yOuX9UiKKA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
+  "projectFilePath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DaniloRuziska\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\DaniloRuziska\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

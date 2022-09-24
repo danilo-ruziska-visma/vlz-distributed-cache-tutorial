@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {}
+    "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {
+    "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
+        "projectUniqueName": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
         "projectName": "VismaNmbrs.DistributedCacheSample.Entities",
-        "projectPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
+        "projectPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
         "packagesPath": "C:\\Users\\DaniloRuziska\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\obj\\",
+        "outputPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DaniloRuziska\\AppData\\Roaming\\NuGet\\NuGet.Config",

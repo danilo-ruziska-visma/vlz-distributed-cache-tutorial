@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample\\VismaNmbrs.DistributedCacheSample.csproj": {}
+    "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample\\VismaNmbrs.DistributedCacheSample.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj": {
+    "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj",
+        "projectUniqueName": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj",
         "projectName": "VismaNmbrs.DistributedCacheSample.Data",
-        "projectPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj",
+        "projectPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj",
         "packagesPath": "C:\\Users\\DaniloRuziska\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Data\\obj\\",
+        "outputPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DaniloRuziska\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {
-                "projectPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj"
+              "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {
+                "projectPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {
+    "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
+        "projectUniqueName": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
         "projectName": "VismaNmbrs.DistributedCacheSample.Entities",
-        "projectPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
+        "projectPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj",
         "packagesPath": "C:\\Users\\DaniloRuziska\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\obj\\",
+        "outputPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DaniloRuziska\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample\\VismaNmbrs.DistributedCacheSample.csproj": {
+    "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample\\VismaNmbrs.DistributedCacheSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample\\VismaNmbrs.DistributedCacheSample.csproj",
+        "projectUniqueName": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample\\VismaNmbrs.DistributedCacheSample.csproj",
         "projectName": "VismaNmbrs.DistributedCacheSample",
-        "projectPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample\\VismaNmbrs.DistributedCacheSample.csproj",
+        "projectPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample\\VismaNmbrs.DistributedCacheSample.csproj",
         "packagesPath": "C:\\Users\\DaniloRuziska\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample\\obj\\",
+        "outputPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DaniloRuziska\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,11 +162,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj": {
-                "projectPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj"
+              "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj": {
+                "projectPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Data\\VismaNmbrs.DistributedCacheSample.Data.csproj"
               },
-              "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {
-                "projectPath": "C:\\Projects\\Playground\\Distributed Cache Exercise - Before\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj"
+              "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj": {
+                "projectPath": "C:\\Projects\\Playground\\vlz-distributed-cache-tutorial\\VismaNmbrs.DistributedCacheSample.Entities\\VismaNmbrs.DistributedCacheSample.Entities.csproj"
               }
             }
           }
@@ -198,6 +198,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.8, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[6.0.9, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
