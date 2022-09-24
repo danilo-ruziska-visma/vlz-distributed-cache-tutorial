@@ -1,0 +1,12 @@
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\bin\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.deps.json
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\bin\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\bin\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.pdb
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.csproj.AssemblyReference.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.AssemblyInfoInputs.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.AssemblyInfo.cs
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\refint\VismaNmbrs.DistributecCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\VismaNmbrs.DistributecCacheSample.Entities.pdb
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Release\net6.0\ref\VismaNmbrs.DistributecCacheSample.Entities.dll

@@ -1,0 +1,36 @@
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.deps.json
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.pdb
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.csproj.AssemblyReference.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.AssemblyInfoInputs.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.AssemblyInfo.cs
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\refint\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.pdb
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributecCacheSample.Entities\obj\Debug\net6.0\ref\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.deps.json
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.pdb
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.csproj.AssemblyReference.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.AssemblyInfoInputs.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.AssemblyInfo.cs
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\refint\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.pdb
+C:\Projects\Playground\VismaNmbrs.DistributedCacheSample\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\ref\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.deps.json
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\bin\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.pdb
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.csproj.AssemblyReference.cache
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.AssemblyInfoInputs.cache
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.AssemblyInfo.cs
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\refint\VismaNmbrs.DistributedCacheSample.Entities.dll
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\VismaNmbrs.DistributedCacheSample.Entities.pdb
+C:\Projects\Playground\Distributed Cache Exercise - Before\VismaNmbrs.DistributedCacheSample.Entities\obj\Debug\net6.0\ref\VismaNmbrs.DistributedCacheSample.Entities.dll
